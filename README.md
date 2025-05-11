@@ -1,1 +1,2 @@
-# nvim-ts-autotag
+removed configuration for `rust`
+
